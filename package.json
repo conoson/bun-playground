@@ -1,0 +1,15 @@
+{
+  "name": "bun-playground",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "get-pixels": "^3.3.3",
+    "puppeteer": "^23.6.0"
+  }
+}
